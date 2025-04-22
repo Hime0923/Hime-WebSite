@@ -4,11 +4,9 @@ author: default
 permalink: /
 ---
 
-![image](/Hime-WebSite/assets/images/1726697045887.jpg)
+![image](/GHPages_WebSite/assets/images/logo-150.png)
 
-名前：石原 妃菜  
-  
-  
+名前：石原 妃菜    
 学年：大学１年  
 出身地：群馬県  
 趣味：バイオリンを弾くこと  
