@@ -4,7 +4,7 @@ author: default
 permalink: /
 ---
 
-![image](/Hime-WebSite/assets/images/logo-150.png)
+![image](/Hime-WebSite/assets/images/1726697045887.jpg)
 
 名前：石原 妃菜  
   
