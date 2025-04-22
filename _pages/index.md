@@ -4,8 +4,10 @@ author: default
 permalink: /
 ---
 
+![image](/GHPages_WebSite/assets/images/logo-150.png)
 
 名前：石原 妃菜  
+  
   
 学年：大学１年  
 出身地：群馬県  
