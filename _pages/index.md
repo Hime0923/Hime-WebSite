@@ -4,14 +4,17 @@ author: default
 permalink: /
 ---
 
-![image](/GHPages_WebSite/assets/images/logo-150.png)
+<img src="/assets/images/1726697045887.jpg" alt="サンプル" width="200" height="250">  
 
-名前：石原 妃菜    
-学年：大学１年  
+  
+  名前：石原 妃菜     
+  学年：大学１年  
 出身地：群馬県  
-趣味：バイオリンを弾くこと  
-　　　英語を話すこと  
-　　　書道
+  趣味：バイオリンを弾くこと, 書道  
+
+
+
+
 
 
 
